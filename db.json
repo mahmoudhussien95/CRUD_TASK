@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "Paloma",
+      "lastname": "Gardner",
+      "email": "zonolyj@mailinator.com",
+      "dob": "1998-06-02T21:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Cummings Harrington Traders",
+      "experience": 74,
+      "package": 78,
+      "id": 13
+    },
+    {
+      "firstname": "Paloma",
+      "lastname": "Gardner",
+      "email": "zonolyj@mailinator.com",
+      "dob": "1998-06-15T21:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Cummings Harrington Traders",
+      "experience": 74,
+      "package": 78,
+      "id": 14
+    }
+  ]
+}

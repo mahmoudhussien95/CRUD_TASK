@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "asd",
+      "lastname": "asd",
+      "email": "asd@asd.com",
+      "dob": "2023-05-16T21:00:00.000Z",
+      "gender": "male",
+      "education": "val",
+      "company": "asd",
+      "experience": 2,
+      "package": 5,
+      "id": 1
+    },
+    {
+      "firstname": "asd",
+      "lastname": "asdf",
+      "email": "ad@asd.asd",
+      "dob": "2023-05-09T21:00:00.000Z",
+      "gender": "male",
+      "education": "val",
+      "company": "asd",
+      "experience": 3,
+      "package": 4,
+      "id": 2
+    }
+  ]
+}
